@@ -1,0 +1,8 @@
+<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{"VoiceNameToIdMapItems":[{"Id":"087e625d-ea24-4084-bea7-1cd8615d8900","Name":"Microsoft Server Speech Text to Speech Voice (en-US, EmmaNeural)","ShortName":"en-US-EmmaNeural","Locale":"en-US","VoiceType":"StandardVoice"}]}-->
+<!--ID=FCB40C2B-1F9F-4C26-B1A1-CF8E67BE07D1;Version=1|{"Files":{}}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"en-US":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US"><voice name="en-US-EmmaNeural">
+Hello, I am Lisa. Let me show you how to create an engaging avatar video in four steps.<break strength="x-strong" />
+It begins with a talking script for your avatar. You can get started with a text file. However, we recommend to use the Speech Synthesis Markup Language (SSML) for advanced requirements.
+It allows you to fine-tune the voice of your avatar including pronounciation or the expression of special terms. Also, you can add avatar gestures like pointing to an item.
+</voice></speak>
