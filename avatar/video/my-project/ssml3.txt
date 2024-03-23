@@ -3,6 +3,13 @@
 <!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{"Locales":{"en-US":{"AutoApplyCustomLexiconFiles":[{}]}}}-->
 <speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US"><voice name="en-US-EmmaNeural">
 Hello, I am Lisa. Let me show you how to create an engaging avatar video in four steps.<break strength="x-strong" />
-It begins with a talking script for your avatar. You can get started with a text file. However, we recommend to use the Speech Synthesis Markup Language (SSML) for advanced requirements.
-It allows you to fine-tune the voice of your avatar including pronounciation or the expression of special terms. Also, you can add avatar gestures like pointing to an item.
-</voice></speak>
+It begins with a talking script for your avatar. You can get started with a text file. However, we recommend to use the Speech Synthesis Markup Language (SSML) for advanced requirements. <break strength="x-strong" />
+Ugh, you won't believe this morning. The alarm clock went off at <say-as interpret-as="time" format="hms12">6:00 AM</say-as> sharp, not with the calming nature sounds, but with a foghorn! <break strength="x-strong" />
+Seriously? <break strength="x-weak"/> Two hours of sleep? <break strength="x-weak"/>
+Fantastic. Look at these dark circles - concealer isn't cheap these days. Anyway, the dentist appointment is at <say-as interpret-as="time" format="hms12">3:15 PM</say-as> today. Fun. 
+At least it's only <say-as interpret-as='currency' language='en-US'>$85</say-as> this time. Last time was a nightmare. Maybe I should've just stayed in bed...Okay, gotta focus. Work emails, grocery shopping... and those library books are two weeks overdue!<break strength="x-strong" />
+Self-checkout is probably out of the question.<break strength="x-strong" /> But let me check if the librarian is ready to help me out. I usually don't have items overdue, I hope they don't charge me with a late fee. 
+Other than that, life is going good, I am liking my work and my colleagues are great! I hope you are doing good too, it's been a while we haven't met, I think we should catch up sometime soon.
+How about the next weekend? At Cafe Stella <break strength="x-weak" /> like old times, common ya, it will be fun! Why don't you bring Nitin and Soham along - it's been a while I have met them, what are they up to? 
+I last heard Soham is studying at the University of Michigan! That's a great school - hope he is having fun!
+<break strength="x-strong" /></voice></speak>
